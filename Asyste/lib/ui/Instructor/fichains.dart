@@ -1,3 +1,4 @@
+import 'package:asyste/ui/Administrador/Aprendiz.dart';
 import 'package:asyste/ui/Administrador/programa.dart';
 import 'package:asyste/ui/Instructor/aprendizins.dart';
 import 'package:asyste/ui/Login/login.dart';

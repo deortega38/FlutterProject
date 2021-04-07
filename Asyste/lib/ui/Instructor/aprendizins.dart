@@ -1,3 +1,4 @@
+import 'package:asyste/ui/Administrador/asistencia.dart';
 import 'package:asyste/ui/Administrador/ficha.dart';
 import 'package:asyste/ui/Administrador/programa.dart';
 import 'package:asyste/ui/Instructor/asistenciains.dart';

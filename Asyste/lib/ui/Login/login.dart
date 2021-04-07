@@ -1,4 +1,5 @@
 import 'package:asyste/bloc/login/bloc/login_bloc.dart';
+import 'package:asyste/ui/Administrador/asistencia.dart';
 import 'package:asyste/ui/Administrador/programa.dart';
 import 'package:asyste/ui/Instructor/asistenciains.dart';
 import 'package:asyste/ui/Instructor/programains.dart';
